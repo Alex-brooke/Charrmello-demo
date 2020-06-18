@@ -1,6 +1,6 @@
-# Charmello_v0
+# charmello
 
-A new Flutter project.
+A new Flutter application.
 
 ## Getting Started
 
